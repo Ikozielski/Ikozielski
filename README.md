@@ -15,7 +15,7 @@
   ##
 
  <div> 
-  --
+
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5544984643755">
     <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -30,6 +30,7 @@
    <a target="_blank"  href="https://www.linkedin.com/in/iury-kozielski">
     <img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>                                                  
+
 
     <a target="_blank"  href="https://www.tiktok.com/@iurykozielski">
     <img align="left" alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
