@@ -3,7 +3,7 @@
 
 - 👨🏻‍🎓Sou Formado em Engenharia de Software pela Unicesumar
 - 🚀Atualmente trabalho como Suporte Técnico na Stefanini Brasil
-- 📖Estudando html, CSS, JS e Java
+- 📖Estudando Html, CSS, JS e Java
 - 👨🏻‍💻Tenho muita vontade de aprender sobre as tecnologias 
 
 <div align="center">
