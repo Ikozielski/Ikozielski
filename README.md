@@ -31,7 +31,7 @@
    </a> 
    
     <a target="_blank"  href="https://www.tiktok.com/@iurykozielski">
-    <img align="left" alt="TikTok" src="	https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+    <img align="left" alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
    </a> 
   
  </div>
