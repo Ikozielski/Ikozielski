@@ -18,13 +18,17 @@
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5544984643755">
     <img align="left" alt="Whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://instagram.com/iury_kozielski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                 badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a target="_blank"  href="https://instagram.com/iury_kozielski">
+    <img align="left" alt="Intagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
    
   <a target="_blank" href="mailto:iurykozielski9@gmail.com">
    <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
                                                            
-  <a href="https://www.linkedin.com/in/iury-kozielski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-            badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a target="_blank"  href="https://www.linkedin.com/in/iury-kozielski">
+    <img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a> 
   
  </div>
   
