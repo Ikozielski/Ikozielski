@@ -37,7 +37,7 @@
    </a> 
 --
 
-
+![Snake animation](https://github.com/Ikozielski/Ikozielski/blob/output/github-contribution-grid-snake.svg)
    
  </div>
   
