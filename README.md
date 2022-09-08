@@ -37,7 +37,7 @@
    </a> 
 --
 
-![snake gif](https://github.com/ikozielski/ikozielski/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ikozielski/Ikozielski/blob/output/github-contribution-grid-snake.svg)
  </div>
   
   
