@@ -36,9 +36,8 @@
     <img align="left" alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
    </a> 
 --
-##
-   
-![snake gif](https://github.com/Ikozielski/Ikozielski/blob/output/github-contribution-grid-snake.svg)
+
+
    
  </div>
   
