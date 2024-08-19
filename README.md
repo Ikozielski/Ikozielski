@@ -30,9 +30,7 @@
     <a target="_blank"  href="https://www.tiktok.com/@iurykozielski">
     <img align="left" alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
    </a> 
---
 
-![Snake animation](https://github.com/Ikozielski/Ikozielski/blob/output/github-contribution-grid-snake.svg)
    
  </div>
   
