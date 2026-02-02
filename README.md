@@ -7,7 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikozielski&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
 
  <div> 
 
