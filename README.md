@@ -2,7 +2,7 @@
 
 <div align="center">
        
-  <img height="220"
+  <img height="250"
        src="https://github-readme-stats-ten-flax-46.vercel.app/api/top-langs/?username=ikozielski&layout=compact&langs_count=7&theme=dark&count_private=true"/>
 </div>
 
