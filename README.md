@@ -4,35 +4,9 @@
        
   <img height="250"
        src="https://github-readme-stats-ten-flax-46.vercel.app/api/top-langs/?username=ikozielski&layout=compact&langs_count=8&theme=dark&count_private=true&v=2"/>
+
 </div>
 
 <br/>
 
-<div>
-  <a target="_blank" href="https://wa.me/5544984643755">
-    <img align="left" alt="Whatsapp"
-         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-
-  <a target="_blank" href="https://www.instagram.com/iury_kozielski/">
-    <img align="left" alt="Instagram"
-         src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a target="_blank" href="mailto:iurykozielski9@gmail.com">
-    <img align="left" alt="Gmail"
-         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a target="_blank" href="https://www.linkedin.com/in/iury-kozielski">
-    <img align="left" alt="LinkedIn"
-         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a target="_blank" href="https://www.tiktok.com/@iurykozielski">
-    <img align="left" alt="TikTok"
-         src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-</div>
-
-<br/><br/>
+🔗 [ikozielski.github.io](https://ikozielski.github.io/)
